@@ -76,3 +76,16 @@ function name_change_13(){
     name13.innerHTML=''
     button13.innerHTML='Added'
 }
+button1.addEventListener('click', name_change_1)
+button2.addEventListener('click', name_change_2)
+button3.addEventListener('click', name_change_3)
+button4.addEventListener('click', name_change_4)
+button5.addEventListener('click', name_change_5)
+button6.addEventListener('click', name_change_6)
+button7.addEventListener('click', name_change_7)
+button8.addEventListener('click', name_change_8)
+button9.addEventListener('click', name_change_9)
+button10.addEventListener('click', name_change_10)
+button11.addEventListener('click', name_change_11)
+button12.addEventListener('click', name_change_12)
+button13.addEventListener('click', name_change_13)
