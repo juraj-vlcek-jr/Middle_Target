@@ -75,6 +75,7 @@ function name_change_12(){
 function name_change_13(){
     name13.innerHTML='Gregor'
     button13.innerHTML='Added'
+    console.log('funguje')
 }
 button1.addEventListener('click', name_change_1)
 button2.addEventListener('click', name_change_2)
