@@ -24,51 +24,55 @@ let name12 = document.queryselector('.name_12')
 let button12 = document.queryselector('.button_12')
 let name13 = document.queryselector('.name_13')
 let button13 = document.queryselector('.button_13')
-function name_change_(){
-    name.innerHTML=''
-    button.innerHTML='Added'
+function name_change_1(){
+    name1.innerHTML=''
+    button1.innerHTML='Added'
 }
-function name_change_(){
-    name.innerHTML=''
-    button.innerHTML='Added'
+function name_change_2(){
+    name2.innerHTML=''
+    button2.innerHTML='Added'
 }
-function name_change_(){
-    name.innerHTML=''
-    button.innerHTML='Added'
+function name_change_3(){
+    name3.innerHTML=''
+    button3.innerHTML='Added'
 }
-function name_change_(){
-    name.innerHTML=''
-    button.innerHTML='Added'
+function name_change_4(){
+    name4.innerHTML=''
+    button4.innerHTML='Added'
 }
-function name_change_(){
-    name.innerHTML=''
-    button.innerHTML='Added'
+function name_change_5(){
+    name5.innerHTML=''
+    button5.innerHTML='Added'
 }
-function name_change_(){
-    name.innerHTML=''
-    button.innerHTML='Added'
+function name_change_6(){
+    name6.innerHTML=''
+    button6.innerHTML='Added'
 }
-function name_change_(){
-    name.innerHTML=''
-    button.innerHTML='Added'
+function name_change_7(){
+    name7.innerHTML=''
+    button7.innerHTML='Added'
 }
-function name_change_(){
-    name.innerHTML=''
-    button.innerHTML='Added'
+function name_change_8(){
+    name8.innerHTML=''
+    button8.innerHTML='Added'
 }
-function name_change_(){
-    name.innerHTML=''
-    button.innerHTML='Added'
+function name_change_9(){
+    name9.innerHTML=''
+    button9.innerHTML='Added'
 }
-function name_change_(){
-    name.innerHTML=''
-    button.innerHTML='Added'
+function name_change_10(){
+    name10.innerHTML=''
+    button10.innerHTML='Added'
 }
-function name_change_(){
-    name.innerHTML=''
-    button.innerHTML='Added'
+function name_change_11(){
+    name11.innerHTML=''
+    button11.innerHTML='Added'
 }
-function name_change_(){
-    name.innerHTML=''
-    button.innerHTML='Added'
+function name_change_12(){
+    name12.innerHTML=''
+    button12.innerHTML='Added'
+}
+function name_change_13(){
+    name13.innerHTML=''
+    button13.innerHTML='Added'
 }
