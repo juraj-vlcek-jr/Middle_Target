@@ -24,3 +24,51 @@ let name12 = document.queryselector('.name_12')
 let button12 = document.queryselector('.button_12')
 let name13 = document.queryselector('.name_13')
 let button13 = document.queryselector('.button_13')
+function name_change_(){
+    name.innerHTML=''
+    button.innerHTML='Added'
+}
+function name_change_(){
+    name.innerHTML=''
+    button.innerHTML='Added'
+}
+function name_change_(){
+    name.innerHTML=''
+    button.innerHTML='Added'
+}
+function name_change_(){
+    name.innerHTML=''
+    button.innerHTML='Added'
+}
+function name_change_(){
+    name.innerHTML=''
+    button.innerHTML='Added'
+}
+function name_change_(){
+    name.innerHTML=''
+    button.innerHTML='Added'
+}
+function name_change_(){
+    name.innerHTML=''
+    button.innerHTML='Added'
+}
+function name_change_(){
+    name.innerHTML=''
+    button.innerHTML='Added'
+}
+function name_change_(){
+    name.innerHTML=''
+    button.innerHTML='Added'
+}
+function name_change_(){
+    name.innerHTML=''
+    button.innerHTML='Added'
+}
+function name_change_(){
+    name.innerHTML=''
+    button.innerHTML='Added'
+}
+function name_change_(){
+    name.innerHTML=''
+    button.innerHTML='Added'
+}
