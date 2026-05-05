@@ -25,55 +25,55 @@ let button12 = document.queryselector('.button_12')
 let name13 = document.queryselector('.name_13')
 let button13 = document.queryselector('.button_13')
 function name_change_1(){
-    name1.innerHTML=''
+    name1.innerHTML='Yi Sang'
     button1.innerHTML='Added'
 }
 function name_change_2(){
-    name2.innerHTML=''
+    name2.innerHTML='Faust'
     button2.innerHTML='Added'
 }
 function name_change_3(){
-    name3.innerHTML=''
+    name3.innerHTML='Don Quixote'
     button3.innerHTML='Added'
 }
 function name_change_4(){
-    name4.innerHTML=''
+    name4.innerHTML='Ryōshū'
     button4.innerHTML='Added'
 }
 function name_change_5(){
-    name5.innerHTML=''
+    name5.innerHTML='Meursault'
     button5.innerHTML='Added'
 }
 function name_change_6(){
-    name6.innerHTML=''
+    name6.innerHTML='Hong Lu'
     button6.innerHTML='Added'
 }
 function name_change_7(){
-    name7.innerHTML=''
+    name7.innerHTML='Heathcliff'
     button7.innerHTML='Added'
 }
 function name_change_8(){
-    name8.innerHTML=''
+    name8.innerHTML='Ishmael'
     button8.innerHTML='Added'
 }
 function name_change_9(){
-    name9.innerHTML=''
+    name9.innerHTML='Rodion'
     button9.innerHTML='Added'
 }
 function name_change_10(){
-    name10.innerHTML=''
+    name10.innerHTML='Dante'
     button10.innerHTML='Added'
 }
 function name_change_11(){
-    name11.innerHTML=''
+    name11.innerHTML='Sinclair'
     button11.innerHTML='Added'
 }
 function name_change_12(){
-    name12.innerHTML=''
+    name12.innerHTML='Outis'
     button12.innerHTML='Added'
 }
 function name_change_13(){
-    name13.innerHTML=''
+    name13.innerHTML='Gregor'
     button13.innerHTML='Added'
 }
 button1.addEventListener('click', name_change_1)
