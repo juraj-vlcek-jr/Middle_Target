@@ -1,16 +1,20 @@
+*{
+    background-color: #232440;
+}
 div{
     width: 300px;
     height: 250px;
+    position: absolute;
     font-family: 'Iosevka Charon Mono', Times, serif;
-    stroke: #000000;
+    border-color: #8D00A9;
     background-color: #974783;
     border-radius: 50px;
-    filter: drop-shadow();
 }
 p{
     width: 190px;
     height: 47px;
     position: absolute;
+    background-color: #974783;
     font-size: 32px;
 }
 button{
@@ -20,6 +24,161 @@ button{
     font-size: 32px;
     background-color: #CC00D7;
     border-radius: 50px;
-    stroke: #000000;
-    filter: drop-shadow();
+    border-color: #000000;
+}
+.div1{
+    top: 50px;
+    left: 50px;
+}
+.name_1{
+    top: px;
+    left: px;
+}
+.button_1{
+    top: 175px;
+    left: 125px;
+}
+.div2{
+    top: 50px;
+    left: 400px;
+}
+.name_2{
+    top: px;
+    left: px;
+}
+.button_2{
+    top: px;
+    left: px;
+}
+.div3{
+    top: 50px;
+    left: 750px;
+}
+.name_3{
+    top: px;
+    left: px;
+}
+.button_3{
+    top: px;
+    left: px;
+}
+.div4{
+    top: 50px;
+    left: 1100px;
+}
+.name_4{
+    top: px;
+    left: px;
+}
+.button_4{
+    top: px;
+    left: px;
+}
+.div5{
+    top: 350px;
+    left: 50px;
+}
+.name_5{
+    top: px;
+    left: px;
+}
+.button_5{
+    top: px;
+    left: px;
+}
+.div6{
+    top: 350px;
+    left: 400px;
+}
+.name_6{
+    top: px;
+    left: px;
+}
+.button_6{
+    top: px;
+    left: px;
+}
+.div7{
+    top: 350px;
+    left: 750px;
+}
+.name_7{
+    top: px;
+    left: px;
+}
+.button_7{
+    top: px;
+    left: px;
+}
+.div8{
+    top: 350px;
+    left: 1100px;
+}
+.name_8{
+    top: px;
+    left: px;
+}
+.button_8{
+    top: px;
+    left: px;
+}
+.div9{
+    top: 650px;
+    left: 50px;
+}
+.name_9{
+    top: px;
+    left: px;
+}
+.button_9{
+    top: px;
+    left: px;
+}
+.div10{
+    top: 650px;
+    left: 400px;
+}
+.name_10{
+    top: px;
+    left: px;
+}
+.button_10{
+    top: px;
+    left: px;
+}
+.div11{
+    top: 650px;
+    left: 750px;
+}
+.name_11{
+    top: px;
+    left: px;
+}
+.button_11{
+    top: px;
+    left: px;
+}
+.div12{
+    top: 650px;
+    left: 1100px;
+}
+.name_12{
+    top: px;
+    left: px;
+}
+.button_12{
+    top: px;
+    left: px;
+}
+.div13{
+    top: 950px;
+    left: 50px;
+}
+.name_13{
+    top: px;
+    left: px;
+}
+.button_13{
+    top: px;
+    left: px;
 }
